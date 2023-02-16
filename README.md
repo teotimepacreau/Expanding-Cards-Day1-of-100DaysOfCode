@@ -1,6 +1,6 @@
 # Expanding Cards
 
-![Expanding cards demo](expanding-cards.gif)
+![Expanding-cards-demo](expanding-cards.gif)
 
 # Project goal
 
