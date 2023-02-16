@@ -1,6 +1,6 @@
 # Expanding Cards
 
-![Expanding-cards-demo](expanding-cards.gif)
+![Expanding-cards-demo](https://github.com/teotimepacreau/Expanding-Cards-Day1-of-100DaysOfCode/blob/main/Expanding-cards.gif)
 
 # Project goal
 
